@@ -217,5 +217,3 @@ Contributions are welcome. Please use feature branches, test changes before subm
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 The project's MIT license applies to the project code covered by that license, not automatically to third-party AI models or dependencies.
-# Drift_Detector
- 8ec4ede1c14c527c4f3ef81521e3caac1a54116b
